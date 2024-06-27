@@ -1,0 +1,7 @@
+TestPackage/.vs/
+TestPackage/.vsconfig
+TestPackage/Assembly-CSharp.csproj
+TestPackage/TestPackage.sln
+TestPackage/Library/
+TestPackage/Logs/
+TestPackage/obj/
